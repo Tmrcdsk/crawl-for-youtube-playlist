@@ -11,4 +11,4 @@
   然后list=后面的部分就是需要的playlist_id了
   ![example3](./example/3.png) <br>
 - 然后传入主函数的crawl_for_youtube_playlist(playlist_id)中
-- 最后结果就存到result.txt中了，默认是按照降序排序
+- 最后结果就存到result.txt中了，默认是按照播放量降序排序
